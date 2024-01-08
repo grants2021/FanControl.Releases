@@ -46,6 +46,17 @@
             Use it to update any sensor or any ressource managed by the plugin.
             </summary>
         </member>
+        <member name="T:FanControl.Plugins.IPluginApplicationControl">
+            <summary>
+            Application control component to be injected in the constructor of a <see cref="T:FanControl.Plugins.IPlugin"/>.
+            </summary>
+        </member>
+        <member name="M:FanControl.Plugins.IPluginApplicationControl.ShowMainWindow">
+            <summary>
+            Spawn the main window of Fan Control if it doesn't exists yet,
+            and activate it (restore)
+            </summary>
+        </member>
         <member name="T:FanControl.Plugins.IPluginControlSensor">
             <summary>
             Represents a control sensor in the application.

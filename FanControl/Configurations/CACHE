@@ -1,0 +1,19 @@
+{
+  "CurrentConfigFileName": "pump_and_fam.json",
+  "Updater": {
+    "CheckForUpdateAtStartup": false,
+    "DisablePopupVersionNumber": 0
+  },
+  "Main": {
+    "DisableDonationPopup": false,
+    "FirstLaunch": false,
+    "Height": 761.5,
+    "Left": 166.0,
+    "LeftDrawerOpen": true,
+    "PopupShownDateTime": "2024-01-07T20:50:08.4737564-05:00",
+    "StartMinimized": true,
+    "Top": 97.5,
+    "Width": 1440.0,
+    "WindowState": 2
+  }
+}
